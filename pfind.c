@@ -3,8 +3,7 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <dirent.h>
-#include <unistd.h>
-// I pledge my Honor that I have abided by the Stevens honor system. 
+#include <unistd.h> 
 // Armaan Khatri
 
 //PermissionToString function which converts permission bits to string
